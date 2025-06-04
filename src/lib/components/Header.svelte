@@ -1,5 +1,4 @@
-<script>
-</script>
+<script></script>
 
 <!--
 <div class="sticky top-0 overflow-auto bg-linear-to-r from-violet-500 to-pink-500 opacity-75 backdrop-blur-sm">

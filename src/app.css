@@ -7,6 +7,22 @@ body {
   font-family: "Ubuntu Mono", sans-serif;
 }
 
+/*
+.footer-button-img {
+  @apply h-5 w-5;
+}
+*/
+
+/*.img-button-1 {
+  @apply flex items-center gap-1 p-1 rounded-sm border-1 border-solid border-orange-500/25 bg-orange-500/10 transition-colors;
+}
+.img-button-1:hover {
+  @apply flex items-center gap-1 p-1 rounded-sm border-1 border-solid border-orange-500/10 bg-gradient-to-r from-orange-500/25 to-orange-500/10 transition-colors;
+}
+.img-button-1:active {
+  @apply flex items-center gap-1 p-1 rounded-sm border-1 border-solid border-orange-500/0 bg-orange-500/30 transition-colors;
+}*/
+
 /* Ubuntu Fonts from Google Fonts
 .ubuntu-light {
   font-family: "Ubuntu", sans-serif;
