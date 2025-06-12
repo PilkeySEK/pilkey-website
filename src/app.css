@@ -11,6 +11,13 @@ profile-colored-text {
   color: orange;
 }
 
+a {
+  color: lightskyblue;
+}
+a:hover {
+  color: rgb(16, 175, 228);
+}
+
 /*
 .footer-button-img {
   @apply h-5 w-5;
