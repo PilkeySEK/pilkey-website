@@ -7,6 +7,10 @@ body {
   font-family: "Ubuntu Mono", sans-serif;
 }
 
+profile-colored-text {
+  color: orange;
+}
+
 /*
 .footer-button-img {
   @apply h-5 w-5;
