@@ -3,10 +3,6 @@
 		title = undefined,
 		subtitle = undefined,
 		text = undefined,
-		image = undefined,
-		image_alt = 'No alt provided.',
-		image_height = '100',
-		image_width = '100',
 		col_span = ''
 	} = $props();
 </script>
