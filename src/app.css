@@ -18,6 +18,10 @@ a:hover {
   color: rgb(16, 175, 228);
 }
 
+dd {
+  color: gray;
+}
+
 /*
 .footer-button-img {
   @apply h-5 w-5;
