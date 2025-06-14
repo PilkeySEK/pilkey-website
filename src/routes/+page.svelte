@@ -15,26 +15,26 @@
 			<br />You should really check out my <a href="https://github.com/PilkeySEK">GitHub</a> :3
 		</p>
 	</GridBox>
-	<!--<GridBoxNoImg
-			title="Technology"
-			subtitle="What I use"
-			text="<b>== Hardware ==</b>
-			<dl>
-				<dt>- Lenovo IdeaPad C340-15IWL</dt>
-				<dd>- Upgraded to 12GB RAM, Intel i5-8265U (8) @ 3.9GHz, NVIDIA GeForce MX230</dd>
-				<dt>- LG ULTRAGEAR</dt>
-				<dd>- HD Resolution</dd>
-				<dt>- Samsung Galaxy A14 5G</dt>
-				<dd>- Certified Android enjoyer</dd>
-			</dl>
-			<b>== Software ==</b>
-			<dl>
-				<dt>- Linux Mint 22.1</dt>
-				<dd>- Cinnamon</dd>
-				<dt>- Visual Studio Code</dt>
-				<dt>- IntelliJ IDEA</dt>
-			</dl>"
-		/>-->
+	<GridBox>
+		<Title>Technology</Title>
+		<Subtitle>What I use</Subtitle>
+		<p><b>== Hardware ==</b></p>
+		<dl>
+			<dt>- Lenovo IdeaPad C340-15IWL</dt>
+			<dd>- Upgraded to 12GB RAM, Intel i5-8265U (8) @ 3.9GHz, NVIDIA GeForce MX230</dd>
+			<dt>- LG ULTRAGEAR</dt>
+			<dd>- HD Resolution</dd>
+			<dt>- Samsung Galaxy A14 5G</dt>
+			<dd>- Certified Android enjoyer</dd>
+		</dl>
+		<b>== Software ==</b>
+		<dl>
+			<dt>- Linux Mint 22.1</dt>
+			<dd>- Cinnamon</dd>
+			<dt>- Visual Studio Code</dt>
+			<dt>- IntelliJ IDEA</dt>
+		</dl>
+	</GridBox>
 	<!--<GridBox2>
 			<title>hii!</title>
 			<subtitle>insert subtitle</subtitle>
