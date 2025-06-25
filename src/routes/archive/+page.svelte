@@ -10,4 +10,6 @@
 	<ul>
 		<li><a href="/archive">Placeholder</a></li>
 	</ul>
+    <br />
+    <a class="link-2" href="/">Go home</a>
 </div>

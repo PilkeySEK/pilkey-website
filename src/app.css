@@ -18,6 +18,13 @@ a:hover {
   color: rgb(16, 175, 228);
 }
 
+a.link-2 {
+  color: red;
+}
+a.link-2:hover {
+  color: orangered;
+}
+
 dd {
   color: gray;
 }
