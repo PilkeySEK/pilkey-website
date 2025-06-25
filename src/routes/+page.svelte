@@ -15,7 +15,7 @@
 			<br />You should really check out my <a href="https://github.com/PilkeySEK">GitHub</a> :3
 		</p>
 	</GridBox>
-	<GridBox>
+	<!--<GridBox>
 		<Title>Technology</Title>
 		<Subtitle>What I use</Subtitle>
 		<p><b>== Hardware ==</b></p>
@@ -34,7 +34,7 @@
 			<dt>- Visual Studio Code</dt>
 			<dt>- IntelliJ IDEA</dt>
 		</dl>
-	</GridBox>
+	</GridBox>-->
 	<!--<GridBox2>
 			<title>hii!</title>
 			<subtitle>insert subtitle</subtitle>
