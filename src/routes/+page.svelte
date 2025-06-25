@@ -15,6 +15,15 @@
 			<br />You should really check out my <a href="https://github.com/PilkeySEK">GitHub</a> :3
 		</p>
 	</GridBox>
+	<GridBox image="/assets/book1.png" image_alt="Book">
+		<Title>What I do here</Title>
+		<Subtitle>Or: Why am I here</Subtitle>
+		<p>
+			I write sometimes: <a href="/blog">Check out my blog!</a>
+			<br />Maybe, I'll also make some games ... maybe :)
+			<br />All archived things are in the <a href="/archive">archive</a>.
+		</p>
+	</GridBox>
 	<!--<GridBox>
 		<Title>Technology</Title>
 		<Subtitle>What I use</Subtitle>
